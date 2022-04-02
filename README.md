@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutosh3995
-- 👀 I’m interested in black-coffee and tech coversations.
+- 👀 I’m interested in black-coffee and product coversations.
 - 🌱 I’m currently learning and working as a iOS-Swift developer
-- 🌱 I’m also currently working as 
+- 🏠 I've run a communication design studio, so identity and product design comes naturally to me as well. 
 - 💞️ I’m looking to collaborate on open source Swift Projects
 - 📫 How to reach me itisashutoshmane@gmail.com
 - 🖼 Instagram: am_Toshi
